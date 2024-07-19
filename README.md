@@ -1,6 +1,5 @@
 
-# Automação de Testes Sauce Demo  
-<img src="https://www.saucedemo.com/v1/img/Login_Bot_graphic.png" alt="Framework Cypress, 8% OFF" style="zoom:10%;" />
+# Automação de Testes Sauce Demo 
 
 
 ## Objetivo do projeto
@@ -83,6 +82,6 @@ npx cypress open
 ```
 npx cypress run
 ```
-
-
+## Expectativa do resultado
+![ezgif com-speed](https://github.com/user-attachments/assets/f9e205eb-a36f-48ae-a956-5dbab06c8999)
 
