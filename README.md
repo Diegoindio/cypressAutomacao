@@ -1,5 +1,5 @@
 
-# Automação de Testes Sauce Demo 
+# Automação de Testes - Saucedemo 
 
 
 ## Objetivo do projeto
