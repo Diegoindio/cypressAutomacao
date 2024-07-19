@@ -1,10 +1,6 @@
 
 # Automação de Testes Sauce Demo  
-
-<img src="https://www.saucedemo.com/v1/img/Login_Bot_graphic.png" alt="saucedemo, 8% OFF" style="zoom:10%;" />
-
-
-# Automação de Testes Sauce Demo  <img src="https://www.saucedemo.com/v1/img/Login_Bot_graphic.png" alt="Framework Cypress, 8% OFF" style="zoom:10%;" />
+<img src="https://www.saucedemo.com/v1/img/Login_Bot_graphic.png" alt="Framework Cypress, 8% OFF" style="zoom:10%;" />
 
 
 ## Objetivo do projeto
